@@ -1,6 +1,6 @@
 # Historical-Bitcoin-Volatility-Calculation
 
-In this notebook, we will be computing the 20 trading days (or 1 month) Bitcoin historical volatility for the time period starting from September 12, 2014 to December 11, 2022.Historical Volatility gauges the fluctuations of underlying securities by measuring the price changes over a predetermined period of time in the past.
+In this notebook, we will be computing the 20 trading days (or 1 month) Bitcoin historical volatility for the time period starting from September 12, 2014 to December 11, 2022. Historical Volatility gauges the fluctuations of underlying securities by measuring the price changes over a predetermined period of time in the past.
 
 ### 1. Import the Libraries
 First, we will import the necessary libraries.
